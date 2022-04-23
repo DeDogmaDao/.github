@@ -1,6 +1,6 @@
-## DeDogma Dao 
-
 ![header image](https://github.com/DeDogmaDao/.github/raw/main/Finalheader2%20(1).jpg?raw=true)
+
+## DeDogma Dao 
 
 Web3 organisation building no-loss collectigames and celebrating the world of defi through the lens of lore and gameplay
 <!--
