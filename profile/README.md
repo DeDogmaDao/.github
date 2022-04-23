@@ -1,5 +1,8 @@
-## Hi there 👋
+## DeDogma Dao 
 
+![header image](https://github.com/DeDogmaDao/.github/raw/main/Finalheader2%20(1).jpg?raw=true)
+
+Web3 organisation building no-loss collectigames and celebrating the world of defi through the lens of lore and gameplay
 <!--
 
 **Here are some ideas to get you started:**
