@@ -2,7 +2,10 @@
 
 ## DeDogma Dao 
 
-Web3 organisation building no-loss collectigames and celebrating the world of defi through the lens of lore and gameplay
+DDD is a platform which gamifies DeFi protocols with an integration of NFT collectibles. The platform also prioritizes building related infrastructure for upcoming Web3 initiatives.
+
+Our aim is to make the space more secure and trustless by being transparent with our solutions and technical implementation.
+
 <!--
 
 **Here are some ideas to get you started:**
